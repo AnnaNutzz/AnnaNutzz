@@ -1,4 +1,27 @@
-## Hi there 👋
+## **👋 Hey there, I'm Ahana!**  
+### **🚀 AI/ML Enthusiast | MCA Student | Aspiring AI Developer**  
+
+Welcome to my GitHub! I'm pursuing my **Master's in Computer Applications (MCA)** and have a background in **AI/ML, software development, and automation**.  
+
+### **🌟 What I Do**  
+🔹 Building AI models for real-world applications    
+🔹 Developing an **AI Tutor** with **Tkinter, Notion API, and NLP**  
+🔹 Exploring **NLP, ML, and automation**  
+🔹 Writing scripts & bots using **Python, Nextcord, and KivyMD**  
+
+### **📌 Skills & Tools**  
+- **Languages:** Python, Java, C++, C, SQL  
+- **AI/ML:** TensorFlow, OpenCV, CNN, NLP  
+- **Databases:** MySQL  
+- **Development:** Tkinter, KivyMD, Web Scraping, API Integration  
+- **Version Control:** Git & GitHub  
+
+### **📈 Current Focus**  
+🔹 Improving **AI model accuracy & efficiency**  
+🔹 Working on **Discord bots & automation**  
+🔹 Enhancing my **NLP & deep learning** skills  
+
+### ![LinkedIn:](https://www.linkedin.com/in/ahana-kaur-560408295/)
 
 
 # 💻 Tech Stack:
