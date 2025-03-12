@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm pursuing my **Master's in Computer Applications (MCA)*
 🔹 Working on **Discord bots & automation**  
 🔹 Enhancing my **NLP & deep learning** skills  
 
-### ![LinkedIn:](https://www.linkedin.com/in/ahana-kaur-560408295/)
+### ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw15SHm7Cz-FOjm23AqgQplx&ust=1741842978379000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjulPLkg4wDFQAAAAAdAAAAABAE)![LinkedIn:](https://www.linkedin.com/in/ahana-kaur-560408295/)
 
 
 # 💻 Tech Stack:
