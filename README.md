@@ -1,40 +1,56 @@
-## **👋 Hey there, I'm Ahana!**  
-### **🚀 AI/ML Enthusiast | MCA Student | Aspiring AI Developer**  
+# Hey, I'm Ahana 👋
 
-Welcome to my GitHub! I'm pursuing my **Master's in Computer Applications (MCA)** and have a background in **AI/ML, software development, and automation**.  
+**Python Developer · ML Engineer · Computer Vision**
 
-### **🌟 What I Do**  
-🔹 Building AI models for real-world applications    
-🔹 Developing an **AI Tutor** with **Tkinter, Notion API, and NLP**  
-🔹 Exploring **NLP, ML, and automation**  
-🔹 Writing scripts & bots using **Python, Nextcord, and KivyMD**  
+MCA student at Bennett University (4th sem). I build end-to-end ML systems — from satellite image segmentation to deployed job discovery pipelines. I think in systems, ship working code, and prefer offline/edge solutions where possible.
 
-### **📌 Skills & Tools**  
-- **Languages:** Python, Java, C++, C, SQL  
-- **AI/ML:** TensorFlow, OpenCV, CNN, NLP  
-- **Databases:** MySQL  
-- **Development:** Tkinter, KivyMD, Web Scraping, API Integration  
-- **Version Control:** Git & GitHub  
-
-### **📈 Current Focus**  
-🔹 Improving **AI model accuracy & efficiency**  
-🔹 Working on **Discord bots & automation**  
-🔹 Enhancing my **NLP & deep learning** skills  
-
-### ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw15SHm7Cz-FOjm23AqgQplx&ust=1741842978379000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjulPLkg4wDFQAAAAAdAAAAABAE)![LinkedIn:](https://www.linkedin.com/in/ahana-kaur-560408295/)
-
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AnnaNutzz&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AnnaNutzz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaNutzz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AnnaNutzz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Currently interning as a Python Developer (ML focus) at GJ-Map Solutions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AnnaNutzz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I'm Working On
+
+- **[NoiseFloor](https://github.com/AnnaNutzz/NoiseFloor)** — deployed intelligent job discovery system with semantic resume–JD matching, scam detection, and real-time WhatsApp alerts (Flask · NLP · SQLite · Twilio · Render)
+- **Offline Meeting Transcription & Summarization** — multilingual ASR + speaker diarization, runs fully offline (Whisper · Pyannote · PyTorch)
+- **50 Days, 50 ML Projects** — structured applied ML challenge across regression, classification, CV, NLP, and MLOps
+
+---
+
+## 🛠️ Tech Stack
+
+**Core:** Python · SQL · Git · Linux
+
+**ML/AI:** PyTorch · TensorFlow · Keras · Scikit-learn · Hugging Face Transformers · Whisper · Pyannote · NLTK · spaCy
+
+**Computer Vision:** OpenCV · CNNs · YOLO · U-Net · MediaPipe · Real-time video inference
+
+**Data:** Pandas · NumPy · Matplotlib · Seaborn · Feature Engineering
+
+**Deployment:** Flask · FastAPI · REST APIs · Docker · Jenkins · CI/CD · Render
+
+**Geospatial:** Rasterio · Shapely · PyProj · Sentinel-2 · OSM
+
+---
+
+## 📌 Pinned Projects
+
+| Project | What it does |
+|---|---|
+| [NoiseFloor](https://github.com/AnnaNutzz/NoiseFloor) | Deployed job discovery system — filters noise, detects scams, WhatsApp alerts |
+| [Road Detection from Satellite Imagery](https://github.com/AnnaNutzz/road-detection) | U-Net on Sentinel-2 data across 6 Indian cities |
+| [Offline Meeting Transcriber](https://github.com/AnnaNutzz/meeting-transcriber) | Multilingual ASR + summarization, zero cloud dependency |
+| [Real-Time Emotion Detection](https://github.com/AnnaNutzz/Emotion-Detection) | CNN, 7 classes, 15–20 FPS on consumer hardware |
+| [AI Tutor](https://github.com/AnnaNutzz/AI-Powered-Learning-Assistant) | Document ingestion + BART summarization + quiz generation |
+| [50 Days 50 ML Projects](https://github.com/AnnaNutzz/50-Days-50-ML-AI-Projects) | Applied ML challenge — regression, classification, CV, NLP |
+
+---
+
+## 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnnaNutzz&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=AnnaNutzz&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaNutzz&theme=dark&hide_border=true&count_private=true&layout=compact)
+
+---
+
+📫 [kaur.ahana02@gmail.com](mailto:kaur.ahana02@gmail.com) · [LinkedIn](https://linkedin.com/in/ahana-kaur-560408295/) · [Portfolio](https://ahanaportfolio.vercel.app/)
