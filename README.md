@@ -1,8 +1,13 @@
-# hey, i'm Ahana 👋
+<p align="center">
+  <a href="https://github.com/AnnaNutzz">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f43f5e&fontSize=54&height=90&width=538&text=hey%2C%20i'm%20Ahana" alt="hey, i&#39;m Ahana" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=850&height=44&lines=%22i%20like%20to%20socialise.%20but%20also%20not.%20it's%20complicated.%22" alt="Typing headlines" />
+</p>
 
-> *"i like to socialise. but also not. it's complicated."*
-
-MCA done. marks in. awaiting the piece of paper. currently a **Python Developer (ML)** intern at **GJ-Map Solutions**, where satellites are my dataset and roads, windmills, crops, and solar farms are my labels.
+MCA done, degree in hand. Python Developer & ML Engineer, most recently at **GJ-Map Solutions**, where satellites were my dataset and roads, windmills, crops, and solar farms were my labels.
 
 military brat. packing and unpacking teaches you to adapt fast, make friends faster, and not get too attached to any one version of yourself. also somehow scored 91.8% in 12th during COVID, which felt big at the time and now just feels like a year that happened.
 
@@ -10,7 +15,7 @@ i build things. i break things. i debug them at 2am. i ship them.
 
 ---
 
-## what i actually do at work 🛰️
+## what i built at work 🛰️
 
 **@ GJ-Map Solutions** — 5 production ML pipelines, all geospatial, all satellite:
 
@@ -59,12 +64,24 @@ i'm someone who's grown more from conversations than coursework. not always comf
 
 ---
 
-## stats
+### 📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=AnnaNutzz&show_icons=true&theme=tokyonight&title_color=f43f5e&icon_color=f43f5e&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=AnnaNutzz&layout=compact&theme=tokyonight&title_color=f43f5e&icon_color=f43f5e&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnnaNutzz&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=AnnaNutzz&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaNutzz&theme=dark&hide_border=true&count_private=true&layout=compact)
+### 📈 Contribution Graph
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnnaNutzz&bg_color=00000000&color=f43f5e&line=f43f5e&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+### 💭 Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
 ---
 
 📫 [kaur.ahana02@gmail.com](mailto:kaur.ahana02@gmail.com) · [LinkedIn](https://linkedin.com/in/ahana-kaur-560408295/) · [Portfolio](https://ahanaportfolio.vercel.app/)
+
+<p align="center"><i>⭐️ From <a href="https://github.com/AnnaNutzz">AnnaNutzz</a></i></p>
